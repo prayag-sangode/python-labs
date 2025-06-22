@@ -1,4 +1,4 @@
-# ML-03: Predict Diabetes using Logistic Regression
+# ML: Predict Diabetes using Logistic Regression
 
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
